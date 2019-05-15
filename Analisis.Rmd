@@ -1,0 +1,39 @@
+---
+title: "Analisis"
+author: "Daniel Rodríguez García"
+date: "15/5/2019"
+output: html_document
+---
+Abundancia
+
+
+
+
+
+
+
+
+
+
+
+Extincion
+
+
+
+
+
+
+
+
+
+
+Grafico
+
+
+
+
+
+
+
+
+
